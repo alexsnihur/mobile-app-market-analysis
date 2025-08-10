@@ -1,6 +1,6 @@
 # Profitable App Profiles for the App Store and Google Play Markets
 
-This project analyzes data from the App Store and Google Play to identify patterns that can help developers create profitable mobile applications.
+This project analyzes data from the App Store and Google Play to identify app categories and features that correlate with high user engagement.
 
 ## Project Overview
 The goal is to determine the types of apps that are likely to attract more users and generate higher revenue on both platforms.  
@@ -22,5 +22,5 @@ These datasets were cleaned and preprocessed to remove duplicates, missing value
 1. Data cleaning and preprocessing
 2. Removal of duplicate and irrelevant entries
 3. Analysis of popular app categories
-4. Analysis of free vs paid apps performance
+4. Analysis of free apps performance
 5. Identification of profitable app niches
