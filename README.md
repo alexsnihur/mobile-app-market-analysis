@@ -13,8 +13,8 @@ This is achieved by examining factors such as:
 
 ## Dataset
 The analysis uses two datasets:
-- **Google Play Store**: Contains app details such as name, category, size, installs, price, and rating.
-- **Apple App Store**: Contains app details such as name, genre, size, price, and rating.
+- [**Google Play Store**](https://www.kaggle.com/datasets/lava18/google-play-store-apps/data): Contains app details such as name, category, size, installs, price, and rating.
+- [**Apple App Store**](https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps/data): Contains app details such as name, genre, size, price, and rating.
 
 These datasets were cleaned and preprocessed to remove duplicates, missing values, and irrelevant entries.
 
