@@ -3,7 +3,8 @@
 This project analyzes data from the App Store and Google Play to identify app categories and features that correlate with high user engagement.
 
 ## Project Overview
-The goal is to determine the types of apps that are likely to attract more users and generate higher revenue on both platforms.  
+The goal is to determine the types of apps that are likely to attract more users and generate higher revenue on both platforms.
+
 This is achieved by examining factors such as:
 - App category
 - Pricing model
