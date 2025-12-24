@@ -5,6 +5,7 @@ A data analysis project exploring app metadata from the App Store and Google Pla
 ## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
+- [Data Cleaning](#data-cleaning)
 - [Key Findings](#key-findings)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
@@ -47,6 +48,15 @@ Two datasets were obtained from Kaggle:
 **After Cleaning:**
 - Free iOS apps: 3,222
 - Free Android apps: 8,864
+
+## Data Cleaning
+
+The datasets required cleaning before analysis:
+
+- **Malformed row**: Removed row 10472 from Google Play data (missing category value caused all columns to shift left)
+- **Duplicates**: Removed 1,181 duplicate apps from Google Play, keeping only the entry with the most reviews for each app
+- **Non-English apps**: Filtered out apps with non-ASCII names to focus on English-speaking markets
+- **Paid apps**: Removed paid apps since the analysis targets ad-revenue business models
 
 ## Key Findings
 
