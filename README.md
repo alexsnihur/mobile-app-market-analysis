@@ -13,7 +13,6 @@ A data analysis project exploring app metadata from the App Store and Google Pla
 - [Usage](#usage)
 - [Analysis Process](#analysis-process)
 - [Results](#results)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -184,10 +183,6 @@ The analysis revealed distinct patterns across both platforms:
 4. **Cross-Platform Opportunity**: Reference and Productivity categories perform well on both platforms, making them suitable for the three-step validation strategy.
 
 5. **Strategic Recommendation**: A well-designed, focused app in the Reference or Productivity space could stand out more easily than competing in saturated entertainment categories.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
