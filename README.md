@@ -37,12 +37,12 @@ Two datasets were obtained from Kaggle:
 **Google Play Store Dataset**
 - Source: [Kaggle - Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps/data)
 - Original size: 10,841 apps
-- Columns: App, Category, Rating, Reviews, Size, Installs, Type, Price, Content Rating, Genres, Last Updated, Current Ver, Android Ver
+- Columns: `App`, `Category`, `Rating`, `Reviews`, `Size`, `Installs`, `Type`, `Price`, `Content Rating`, `Genres`, `Last Updated`, `Current Ver`, `Android Ver`
 
 **Apple App Store Dataset**
 - Source: [Kaggle - App Store Data Set](https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps/data)
 - Original size: 7,197 apps
-- Columns: id, track_name, size_bytes, currency, price, rating_count_tot, rating_count_ver, user_rating, user_rating_ver, ver, cont_rating, prime_genre, sup_devices.num, ipadSc_urls.num, lang.num, vpp_lic
+- Columns: `id`, `track_name`, `size_bytes`, `currency`, `price`, `rating_count_tot`, `rating_count_ver`, `user_rating`, `user_rating_ver`, `ver`, `cont_rating`, `prime_genre`, `sup_devices.num`, `ipadSc_urls.num`, `lang.num`, `vpp_lic`
 
 **After Cleaning:**
 - Free iOS apps: 3,222
